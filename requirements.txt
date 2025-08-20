@@ -1,0 +1,4 @@
+streamlit>=1.33
+googletrans==4.0.0rc1
+gTTS>=2.5
+deep-translator>=1.11
